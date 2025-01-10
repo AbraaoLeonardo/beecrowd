@@ -31,7 +31,7 @@ Each solution is organized by problem and includes comments for clarity.
 
 ## Technologies Used
 
-- **Programming Language**: The language used is Python
+- **Programming Language**: The language used is Python, but some codes are written in PostgreSQL SQL.
 - **Algorithms**: Sorting, Dynamic Programming, Graph Theory, Greedy Algorithms, etc.
 - **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, etc.
 
